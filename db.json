@@ -11,8 +11,9 @@
   "profile": {
     "name": "typicode"
   }
-  "logIn":[
-  { "login":"username",  "password":"111111"  }
-]  
+  "logIn": {
+   "login":"username",  "password":"111111"  
+  }
+ 
 }
 
