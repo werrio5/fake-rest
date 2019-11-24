@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "logIn": {
-   "login":"username",  "password":"111111"  
+   "username":"returned_username",  "token":"returned_token"  
   }
  
 }
